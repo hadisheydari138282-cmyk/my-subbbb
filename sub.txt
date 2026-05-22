@@ -1,1 +1,2 @@
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#%40vasl_bashim
+vless://ca983242-1969-77af-def5-e2cac9ddc169@snapp.ir:80?path=%2F&security=none&encryption=none&host=dcts.nemes.ir&type=ws#VyroVPN+%28+udVip+%29
